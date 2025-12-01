@@ -159,18 +159,18 @@ This lab demonstrates:
 **▪ Dataset Added**
 
 ```markdown
-![Dataset Added](images/dvc-add.png)
+![Dataset Added](./images/dvc-add.png)
 ```
 
 **▪ Stage Created**
 
 ```markdown
-![Stage Created](images/stage-created.png)
+![Stage Created](./images/stage-created.png)
 ```
 
 **▪ Pipeline Run (dvc repro)**
 
 ```markdown
-![Pipeline Run](images/dvc-repro.png)
+![Pipeline Run](./images/dvc-repro.png)
 ```
 ---
