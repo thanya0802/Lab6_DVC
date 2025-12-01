@@ -155,6 +155,14 @@ This lab demonstrates:
 
 ##  10. Screenshots 
 
+### ▪ Dataset Added  
+![Dataset Added](https://raw.githubusercontent.com/thanya0802/Lab6_DVC/main/images/dvc-add.png)
+
+### ▪ Stage Created  
+![Stage Created](https://raw.githubusercontent.com/thanya0802/Lab6_DVC/main/images/stage-created.png)
+
+### ▪ Pipeline Run  
+![Pipeline Run](https://raw.githubusercontent.com/thanya0802/Lab6_DVC/main/images/dvc-repro.png)
 
 **▪ Dataset Added**
 
