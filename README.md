@@ -172,9 +172,9 @@ This lab demonstrates:
 
 **▪ Dataset Added**
 
-```markdown
+
 ![Dataset Added](./images/dvc-add.png)
-```
+
 
 **▪ Stage Created**
 
