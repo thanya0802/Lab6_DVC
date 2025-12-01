@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  process_wine_data:
+    cmd: python3 process.py
+    deps:
+    - path: data/wine_data.txt
+      hash: md5
+      md5: e2ab1b04ac8994dda5c9cec8e3f3f894
+      size: 75
+    - path: process.py
+      hash: md5
+      md5: 90ef2588f1524c7a399f00b48bf83482
+      size: 255
+    outs:
+    - path: processed_output.csv
+      hash: md5
+      md5: 43648acea396cc20184f907a2facd513
+      size: 48

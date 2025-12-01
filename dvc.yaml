@@ -1,0 +1,8 @@
+stages:
+  process_wine_data:
+    cmd: python3 process.py
+    deps:
+    - data/wine_data.txt
+    - process.py
+    outs:
+    - processed_output.csv
