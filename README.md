@@ -169,22 +169,4 @@ This lab demonstrates:
 ![Pipeline Run](https://raw.githubusercontent.com/thanya0802/Lab6_DVC/main/images/dvc-repro.png)
 
 
-
-**▪ Dataset Added**
-
-
-![Dataset Added](./images/dvc-add.png)
-
-
-**▪ Stage Created**
-
-```markdown
-![Stage Created](./images/stage-created.png)
-```
-
-**▪ Pipeline Run (dvc repro)**
-
-```markdown
-![Pipeline Run](./images/dvc-repro.png)
-```
 ---
