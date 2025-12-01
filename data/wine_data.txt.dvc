@@ -1,0 +1,5 @@
+outs:
+- md5: e2ab1b04ac8994dda5c9cec8e3f3f894
+  size: 75
+  hash: md5
+  path: wine_data.txt
