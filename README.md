@@ -32,7 +32,7 @@ Lab6_DVC/
 ├── dvc.lock
 │
 ├── .dvc/
-├── .dvcignore
+├── images
 └── README.md
 ```
 
